@@ -73,7 +73,6 @@ def dot_image(image):
     img.save('edit.jpg', 'jpeg')
 
 
-
 if __name__ == '__main__':
     test_thumbnail('test.jpg')
     test_imageblur('test.jpg')
